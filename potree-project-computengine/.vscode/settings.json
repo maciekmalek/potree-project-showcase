@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/aleksander/.local/share/virtualenvs/potree-project-Ym6NGKu3/bin/python",
+    "git.ignoreLimitWarning": true,
+    "python.formatting.provider": "black"
+}
